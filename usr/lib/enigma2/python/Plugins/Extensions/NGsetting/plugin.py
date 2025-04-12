@@ -307,8 +307,8 @@ class MenuiSettingE2(Screen, ConfigListScreen):
 			self.ServerOn = False
 			self.jB.append(self.hauptListEntryMenuB(_('NGsetting Version ') + Version, '', '', '', ''))
 			self.jB.append(self.hauptListEntryMenuB(_('Coder: m43c0 & ftp21'), '', '', '', ''))
-			self.jB.append(self.hauptListEntryMenuB(_('Edit by: @Lululla 20231201'), '', '', '', ''))
-			self.jB.append(self.hauptListEntryMenuB(_('Skinner: mmark'), '', '', '', ''))
+			self.jB.append(self.hauptListEntryMenuB(_('Edit by: @Cobraliberosat 2025'), '', '', '', ''))
+			self.jB.append(self.hauptListEntryMenuB(_('Skinner: CBL'), '', '', '', ''))
 			self.jB.append(self.hauptListEntryMenuB(_('Vhannibal Official Plugin'), '', '', '', ''))
 			self.jB.append(self.hauptListEntryMenuB(_('www.vhannibal.net'), '', '', '', ''))
 			self["B"].setList(self.jB)
